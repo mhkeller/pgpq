@@ -1,6 +1,7 @@
 /*
 
 !/.gitignore
+!/cli
 !/core
 !/py
 !/json

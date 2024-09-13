@@ -1391,6 +1391,8 @@ name = "pgpq-cli"
 version = "0.1.0"
 dependencies = [
  "arrow",
+ "arrow-ipc",
+ "arrow-schema",
  "bytes",
  "clap 3.2.25",
  "parquet",

@@ -9,6 +9,8 @@ clap = "3.0"
 arrow = "46.0.0"
 parquet = "46.0.0"
 bytes = "1.7.1"
+arrow-ipc = ">=46.0.0"
+arrow-schema = ">=46.0.0"
 
 [[bin]]
 name = "pgpq"
